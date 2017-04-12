@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/abstract-factory-pattern/abstract-factory-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/abstract-factory-pattern/abstract-factory-pattern.iml" group="abstract-factory-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/abstract-factory-pattern/abstract-factory-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/abstract-factory-pattern/abstract-factory-pattern_main.iml" group="abstract-factory-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/abstract-factory-pattern/abstract-factory-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/abstract-factory-pattern/abstract-factory-pattern_test.iml" group="abstract-factory-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern.iml" group="adapter-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern_main.iml" group="adapter-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern_test.iml" group="adapter-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/design-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/design-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/design-pattern_main.iml" group="design-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/design-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/design-pattern_test.iml" group="design-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/factory-pattern/factory-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/factory-pattern/factory-pattern.iml" group="factory-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/factory-pattern/factory-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/factory-pattern/factory-pattern_main.iml" group="factory-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/factory-pattern/factory-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/factory-pattern/factory-pattern_test.iml" group="factory-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intercepter-filter-pattern/intercepter-filter-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/intercepter-filter-pattern/intercepter-filter-pattern.iml" group="intercepter-filter-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intercepter-filter-pattern/intercepter-filter-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/intercepter-filter-pattern/intercepter-filter-pattern_main.iml" group="intercepter-filter-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intercepter-filter-pattern/intercepter-filter-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/intercepter-filter-pattern/intercepter-filter-pattern_test.iml" group="intercepter-filter-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prototype-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/prototype-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prototype-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/prototype-pattern_main.iml" group="prototype-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prototype-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/prototype-pattern_test.iml" group="prototype-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singleton-pattern/singleton-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/singleton-pattern/singleton-pattern.iml" group="singleton-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singleton-pattern/singleton-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/singleton-pattern/singleton-pattern_main.iml" group="singleton-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singleton-pattern/singleton-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/singleton-pattern/singleton-pattern_test.iml" group="singleton-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern.iml" group="state-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_main.iml" group="state-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_test.iml" group="state-pattern" />
+    </modules>
+  </component>
+</project>

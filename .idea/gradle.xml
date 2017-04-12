@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/gradle213bin/gradle213" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/abstract-factory-pattern" />
+            <option value="$PROJECT_DIR$/adapter-pattern" />
+            <option value="$PROJECT_DIR$/factory-pattern" />
+            <option value="$PROJECT_DIR$/intercepter-filter-pattern" />
+            <option value="$PROJECT_DIR$/singleton-pattern" />
+            <option value="$PROJECT_DIR$/state-pattern" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/prototype-pattern" />
+        <option name="gradleJvm" value="djk1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/prototype-pattern" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

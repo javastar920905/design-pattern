@@ -1,0 +1,8 @@
+rootProject.name = 'design-pattern'
+include 'factory-pattern'
+include 'abstract-factory-pattern'
+include 'singleton-pattern'
+include 'intercepter-filter-pattern'
+include 'state-pattern'
+include 'adapter-pattern'
+
