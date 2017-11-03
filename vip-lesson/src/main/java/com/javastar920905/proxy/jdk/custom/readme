@@ -1,0 +1,7 @@
+编写自定义动态代理
+#自定义InvotationHandler,保持原有接口方法
+#自定义Proxy
+#自定义ClassLoader
+
+#该示例未完成...
+

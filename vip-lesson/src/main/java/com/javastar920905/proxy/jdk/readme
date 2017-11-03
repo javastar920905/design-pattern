@@ -1,0 +1,11 @@
+不使用代理模式
+# 定义一个Person 接口
+# 有个叫Ouou的人需要寻找对象
+# TestFindLoveWithOutProxy,直接自己找对象,但是公司没妹纸很难找到,工作忙没时间
+
+
+使用代理模式,媒婆代理找对象(媒婆是专业的)
+# 定义一个Person 接口
+# 有个叫Ouou的人需要寻找对象(由于OUou 需要工作,没时间找对象,把资料给媒婆代理寻找对象)
+# MeiPo (implement InvocationHandler) 获取被代理人的个人资料,并产生一个代理对象(媒婆)
+# Meipo 代理找对象 TestFindLoveWithProxy查看代理结果
