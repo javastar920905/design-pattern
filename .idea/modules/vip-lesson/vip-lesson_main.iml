@@ -9,6 +9,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Gradle: com.rabbitmq:amqp-client:3.4.1" level="project" />
+    <orderEntry type="library" name="Gradle: cglib:cglib:2.2.2" level="project" />
+    <orderEntry type="library" name="Gradle: asm:asm:3.3.1" level="project" />
   </component>
 </module>
