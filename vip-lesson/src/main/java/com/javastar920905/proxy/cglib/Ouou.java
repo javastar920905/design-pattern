@@ -1,4 +1,4 @@
-package com.javastar920905.proxy.jdk.cglib;
+package com.javastar920905.proxy.cglib;
 
 /**
  * Created by Administrator on 2017/11/3.

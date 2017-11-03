@@ -1,4 +1,4 @@
-package com.javastar920905.proxy.jdk.cglib;
+package com.javastar920905.proxy.cglib;
 
 import java.lang.reflect.Method;
 
