@@ -5,4 +5,5 @@ include 'singleton-pattern'
 include 'intercepter-filter-pattern'
 include 'state-pattern'
 include 'adapter-pattern'
+include 'vip-proxy'
 

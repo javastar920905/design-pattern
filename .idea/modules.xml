@@ -17,15 +17,15 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/intercepter-filter-pattern/intercepter-filter-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/intercepter-filter-pattern/intercepter-filter-pattern.iml" group="intercepter-filter-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/intercepter-filter-pattern/intercepter-filter-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/intercepter-filter-pattern/intercepter-filter-pattern_main.iml" group="intercepter-filter-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/intercepter-filter-pattern/intercepter-filter-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/intercepter-filter-pattern/intercepter-filter-pattern_test.iml" group="intercepter-filter-pattern" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prototype-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/prototype-pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prototype-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/prototype-pattern_main.iml" group="prototype-pattern" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prototype-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/prototype-pattern_test.iml" group="prototype-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/singleton-pattern/singleton-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/singleton-pattern/singleton-pattern.iml" group="singleton-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/singleton-pattern/singleton-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/singleton-pattern/singleton-pattern_main.iml" group="singleton-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/singleton-pattern/singleton-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/singleton-pattern/singleton-pattern_test.iml" group="singleton-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern.iml" group="state-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_main.iml" group="state-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_test.iml" group="state-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip-proxy/vip-proxy.iml" filepath="$PROJECT_DIR$/.idea/modules/vip-proxy/vip-proxy.iml" group="vip-proxy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip-proxy/vip-proxy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vip-proxy/vip-proxy_main.iml" group="vip-proxy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip-proxy/vip-proxy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vip-proxy/vip-proxy_test.iml" group="vip-proxy" />
     </modules>
   </component>
 </project>
