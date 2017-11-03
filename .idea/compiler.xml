@@ -16,6 +16,8 @@
       <module name="singleton-pattern_test" target="1.5" />
       <module name="state-pattern_main" target="1.5" />
       <module name="state-pattern_test" target="1.5" />
+      <module name="vip-lesson_main" target="1.8" />
+      <module name="vip-lesson_test" target="1.8" />
       <module name="vip-proxy_main" target="1.8" />
       <module name="vip-proxy_test" target="1.8" />
     </bytecodeTargetLevel>

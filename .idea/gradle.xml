@@ -16,7 +16,7 @@
             <option value="$PROJECT_DIR$/intercepter-filter-pattern" />
             <option value="$PROJECT_DIR$/singleton-pattern" />
             <option value="$PROJECT_DIR$/state-pattern" />
-            <option value="$PROJECT_DIR$/vip-proxy" />
+            <option value="$PROJECT_DIR$/vip-lesson" />
           </set>
         </option>
       </GradleProjectSettings>

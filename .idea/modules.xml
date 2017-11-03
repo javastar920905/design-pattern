@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern_main.iml" group="adapter-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern_test.iml" group="adapter-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/design-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip-lesson/design-pattern-vip-lesson.iml" filepath="$PROJECT_DIR$/.idea/modules/vip-lesson/design-pattern-vip-lesson.iml" group="vip-lesson" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/design-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/design-pattern_main.iml" group="design-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/design-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/design-pattern_test.iml" group="design-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/factory-pattern/factory-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/factory-pattern/factory-pattern.iml" group="factory-pattern" />
@@ -23,9 +24,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern.iml" group="state-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_main.iml" group="state-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_test.iml" group="state-pattern" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip-proxy/vip-proxy.iml" filepath="$PROJECT_DIR$/.idea/modules/vip-proxy/vip-proxy.iml" group="vip-proxy" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip-proxy/vip-proxy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vip-proxy/vip-proxy_main.iml" group="vip-proxy" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip-proxy/vip-proxy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vip-proxy/vip-proxy_test.iml" group="vip-proxy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson_main.iml" group="vip-lesson" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson_test.iml" group="vip-lesson" />
     </modules>
   </component>
 </project>
