@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_main.iml" group="state-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_test.iml" group="state-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson.iml" filepath="$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson.iml" group="vip-lesson" />
+      <module fileurl="file://D:\gitrepository\design-pattern\.idea\modules\vip-lesson\vip-lesson.iml" filepath="D:\gitrepository\design-pattern\.idea\modules\vip-lesson\vip-lesson.iml" group="vip-lesson" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson_main.iml" group="vip-lesson" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson_test.iml" group="vip-lesson" />
     </modules>

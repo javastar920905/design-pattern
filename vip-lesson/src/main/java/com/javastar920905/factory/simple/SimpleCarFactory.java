@@ -1,4 +1,9 @@
-package com.javastar920905.factory;
+package com.javastar920905.factory.simple;
+
+import com.javastar920905.factory.Audi;
+import com.javastar920905.factory.BMW;
+import com.javastar920905.factory.Benz;
+import com.javastar920905.factory.Car;
 
 /**
  * Created by Administrator on 2017/11/3.

@@ -1,4 +1,6 @@
-package com.javastar920905.factory;
+package com.javastar920905.factory.simple;
+
+import com.javastar920905.factory.Car;
 
 /**
  * Created by Administrator on 2017/11/3.
