@@ -1,0 +1,19 @@
+what?why?how?
+# 单例模式是什么?
+保证系统从启动到停止,只有一个对象实例
+
+# 为什么要使用单例模式?
+保证系统从启动到停止,只有一个对象实例
+配置文件一般是单例
+每个人是单例(独一无二的个体)
+
+# 怎么实现单例模式? 7种写法
+1 构造器私有化
+2 public static final Singleton getInstance() {}
+3
+private static class LazyHolder {
+      /**
+       * final 为了防止内部读操作
+       */
+      private static final Singleton instance = new Singleton();
+ }
