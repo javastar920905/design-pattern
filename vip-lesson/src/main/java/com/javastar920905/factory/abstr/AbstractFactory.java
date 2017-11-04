@@ -8,6 +8,7 @@ import com.javastar920905.factory.Car;
 public abstract class AbstractFactory {
     protected abstract Car getCar();
 
+    /*这段代码用户动态配置 即可*/
     public Car getCar(String name) {
         if ("BMW".equals(name)) {
             return new BMWFactory().getCar();
