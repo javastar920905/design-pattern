@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern.iml" group="adapter-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern_main.iml" group="adapter-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/adapter-pattern/adapter-pattern_test.iml" group="adapter-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bit-talk-design-pattern/bit-talk-design-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/bit-talk-design-pattern/bit-talk-design-pattern.iml" group="bit-talk-design-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bit-talk-design-pattern/bit-talk-design-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bit-talk-design-pattern/bit-talk-design-pattern_main.iml" group="bit-talk-design-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bit-talk-design-pattern/bit-talk-design-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bit-talk-design-pattern/bit-talk-design-pattern_test.iml" group="bit-talk-design-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/design-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/design-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/design-pattern_main.iml" group="design-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/design-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/design-pattern_test.iml" group="design-pattern" />
@@ -24,7 +27,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_main.iml" group="state-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/state-pattern/state-pattern_test.iml" group="state-pattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson.iml" filepath="$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson.iml" group="vip-lesson" />
-      <module fileurl="file://D:\gitrepository\design-pattern\.idea\modules\vip-lesson\vip-lesson.iml" filepath="D:\gitrepository\design-pattern\.idea\modules\vip-lesson\vip-lesson.iml" group="vip-lesson" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson_main.iml" group="vip-lesson" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vip-lesson/vip-lesson_test.iml" group="vip-lesson" />
     </modules>

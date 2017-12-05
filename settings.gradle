@@ -6,4 +6,5 @@ include 'intercepter-filter-pattern'
 include 'state-pattern'
 include 'adapter-pattern'
 include 'vip-lesson'
+include 'bit-talk-design-pattern'
 
