@@ -10,13 +10,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/abstract-factory-pattern" />
-            <option value="$PROJECT_DIR$/adapter-pattern" />
             <option value="$PROJECT_DIR$/bit-talk-design-pattern" />
-            <option value="$PROJECT_DIR$/factory-pattern" />
-            <option value="$PROJECT_DIR$/intercepter-filter-pattern" />
-            <option value="$PROJECT_DIR$/singleton-pattern" />
-            <option value="$PROJECT_DIR$/state-pattern" />
+            <option value="$PROJECT_DIR$/runoob" />
             <option value="$PROJECT_DIR$/vip-lesson" />
           </set>
         </option>

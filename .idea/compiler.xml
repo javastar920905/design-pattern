@@ -8,12 +8,14 @@
       <module name="adapter-pattern_test" target="1.5" />
       <module name="bit-talk-design-pattern_main" target="1.8" />
       <module name="bit-talk-design-pattern_test" target="1.8" />
-      <module name="design-pattern_main" target="1.5" />
-      <module name="design-pattern_test" target="1.5" />
+      <module name="design-pattern_main" target="1.8" />
+      <module name="design-pattern_test" target="1.8" />
       <module name="factory-pattern_main" target="1.5" />
       <module name="factory-pattern_test" target="1.5" />
       <module name="intercepter-filter-pattern_main" target="1.8" />
       <module name="intercepter-filter-pattern_test" target="1.8" />
+      <module name="runoob_main" target="1.8" />
+      <module name="runoob_test" target="1.8" />
       <module name="singleton-pattern_main" target="1.5" />
       <module name="singleton-pattern_test" target="1.5" />
       <module name="state-pattern_main" target="1.5" />
