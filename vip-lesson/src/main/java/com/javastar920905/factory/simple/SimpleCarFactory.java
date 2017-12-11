@@ -23,4 +23,35 @@ public class SimpleCarFactory {
       return null;
     }
   }
+
+  /** 当前类需要关注具体的实现 客户端使用不方便 **/
+  public Car getCar(Class clazz) {
+    try {
+      return (Car) Class.forName(clazz.getName()).newInstance();
+    } catch (InstantiationException e) {
+      e.printStackTrace();
+    } catch (IllegalAccessException e) {
+      e.printStackTrace();
+    } catch (ClassNotFoundException e) {
+      e.printStackTrace();
+    }
+    return null;
+  }
+
+
+  /** 这个name 可以定义为常量使用 隔离了开发代码量 以及 客户端调用 **/
+  public Car getCarByReflect(String name) {
+    // 使用反射优化
+    try {
+      return (Car) Class.forName(name).newInstance();
+    } catch (InstantiationException e) {
+      e.printStackTrace();
+    } catch (IllegalAccessException e) {
+      e.printStackTrace();
+    } catch (ClassNotFoundException e) {
+      e.printStackTrace();
+    }
+    return null;
+
+  }
 }

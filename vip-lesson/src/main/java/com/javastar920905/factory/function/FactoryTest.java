@@ -10,9 +10,9 @@ public class FactoryTest {
         Factory factory = new AudiFactory();
         System.out.print(factory.getCar().logo());
         Factory factory2 = new BMWFactory();
-        System.out.print(factory.getCar().logo());
+        System.out.print(factory2.getCar().logo());
         Factory factory3 = new BenzFactory();
-        System.out.print(factory.getCar().logo());
+        System.out.print(factory3.getCar().logo());
 
         //有个问题 需要用户关心各个工厂的生产商,对用户增加选择难度
         //增加了代码使用复杂度
