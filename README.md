@@ -1,4 +1,10 @@
 # design-pattern
+[readme.md 常用语法](https://www.cnblogs.com/zachary93/p/6106829.html)  
+两个空格=换行  
+"#" 多级标题  
+"![Alt text](/path/to/img.jpg)" 贴图片  
+"使用制表符或者至少4个空格进行缩进的行" 写代码  
+"分割线 * - " 
 ## 模块说明
 ### bit-talk-design-pattern 
 是阅读大话设计模式的摘抄代码 
