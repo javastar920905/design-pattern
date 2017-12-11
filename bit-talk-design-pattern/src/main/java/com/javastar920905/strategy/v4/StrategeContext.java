@@ -4,9 +4,9 @@ package com.javastar920905.strategy.v4;
  * Created by ouzhx on 2017/12/5.
  */
 public class StrategeContext {
-  strategy strategy;
+  IStrategy strategy;
 
-  public StrategeContext(com.javastar920905.strategy.v4.strategy strategy) {
+  public StrategeContext(IStrategy strategy) {
     this.strategy = strategy;
   }
 

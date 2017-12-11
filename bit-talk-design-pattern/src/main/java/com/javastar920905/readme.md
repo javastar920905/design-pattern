@@ -1,5 +1,6 @@
 # 代码来源于 
 大话设计模式 http://url.cn/5Rsas3b
+好玩的java设计模式  http://url.cn/5wuTMvH (适合理解各个角色)
 
 同时推荐书籍  
 重构改善既有代码的设计 http://url.cn/5QD07yh  
