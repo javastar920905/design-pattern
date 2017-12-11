@@ -30,6 +30,21 @@
 ## 设计模式总结
 ...
 设计模式分类 http://www.runoob.com/design-pattern/design-pattern-intro.html
+### 枚举的使用教程
+https://github.com/javastar920905/design-pattern/blob/master/vip-lesson/src/main/java/com/javastar920905/factory/CarEnum.java
+
+### 策略模式场景解析
+https://github.com/javastar920905/design-pattern/tree/master/bit-talk-design-pattern/src/main/java/com/javastar920905/strategy/v4
+
+### 简单工厂+反射示例
+https://github.com/javastar920905/design-pattern/blob/master/vip-lesson/src/main/java/com/javastar920905/factory/simple/SimpleCarFactory.java
+
+### 抽象工厂 (...还需补充)
+https://github.com/javastar920905/design-pattern/tree/master/vip-lesson/src/main/java/com/javastar920905/factory
+
+### 代理模式 
+https://github.com/javastar920905/design-pattern/tree/master/vip-lesson/src/main/java/com/javastar920905/proxy/cglib
+
 
 
 ## 重构指南
